@@ -14,4 +14,11 @@ The following are the available HTTP APIs:
 
 .http://localhost:8000/api/todo/update/{$id} ----Update one TODO 
 
+
+Note: Run the following command in terminal before using the app:
+
+-php artisan serve
+
+-php artisan migrate
+
 Thanks!
